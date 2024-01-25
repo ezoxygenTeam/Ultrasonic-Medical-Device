@@ -10,7 +10,7 @@
 
 # Smart Speaker Information
 
-#### [Samrt Speaker Github](https://github.com/ezoxygenTeam/smartspeaker)
+#### [Smart Speaker Github](https://github.com/ezoxygenTeam/smartspeaker)
 
 # The Usage Information
 
