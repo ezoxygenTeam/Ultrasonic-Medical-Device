@@ -8,7 +8,9 @@
 
 #### [Download Mobile Application](https://github.com/ezoxygenTeam/Ultrasonic-Medical-Device/raw/master/MedicalDevice.apk)
 
-# [Smart Speaker Information](https://github.com/ezoxygenTeam/smartspeaker)
+# Smart Speaker Information
+
+#### [Samrt Speaker Github](https://github.com/ezoxygenTeam/smartspeaker)
 
 # The Usage Information
 
