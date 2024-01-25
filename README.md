@@ -6,7 +6,7 @@
 
 # Mobile Application Information
 
-#### [Download Mobile Application]()
+#### [Download Mobile Application](https://github.com/ezoxygenTeam/Ultrasonic-Medical-Device/raw/master/MedicalDevice.apk)
 
 # The Usage Information
 
