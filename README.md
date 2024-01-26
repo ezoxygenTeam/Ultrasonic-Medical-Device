@@ -82,7 +82,7 @@ For the microphone part, our company offers high-specification USB microphones. 
 On the smart speaker, we have implemented the Linxs system for development and paired it with Text-to-Speech (TTS) and Speech-to-Text (STT) voice systems.  
 This allows users to easily initiate data measurement tasks on the smart speaker using simple voice commands.
  
-More detail on **[Smart Speaker Github](https://github.com/ezoxygenTeam/smartspeaker)**
+More detail on **[Smart Speaker Github](https://github.com/ezoxygenTeam/Ultrasonic-Smart-Speaker)**
 
 <br>
 <br>
