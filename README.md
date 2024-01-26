@@ -1,6 +1,17 @@
+![picture](https://github.com/ezoxygenTeam/Try-Breath/blob/main/demo%20photo/GH_LOGO(E).png)
+<br>
+<br>
+<br>
 # The ultrasonic module system for medical device
 
 Utilizing our innovative ultrasonic emitter, we've transformed traditional medical devices like blood pressure monitors, glucometers, thermometers, and scales into wireless-enabled health monitors. This innovation facilitates the real-time transfer of measurement data to smartphones without the need for complex WIFI or Bluetooth connections. Using the smartphone microphone is sufficient to receive the ultrasonic signals, simplifying the health monitoring process and making it more accessible and integrated for users.
+
+<br>
+
+![picture](https://github.com/ezoxygenTeam/Ultrasonic-Medical-Device/blob/master/Picture.png)
+
+<br>
+<br>
 
 # What is the Ultrasonic Medical device feature?
 
@@ -21,6 +32,9 @@ Utilizing our innovative ultrasonic emitter, we've transformed traditional medic
 
 - **Compatibility with Multiple Platforms**: 
    - Supports Android apps, Android TV, and smart speakers, offering versatile use and a user-friendly experience.
+
+<br>
+<br>
 
 # How to operate?
 
@@ -49,6 +63,9 @@ Utilizing our innovative ultrasonic emitter, we've transformed traditional medic
 8. **Accessing and Monitoring Historical Data**: 
    - The data from the measurements can be accessed in the history section for long-term trend monitoring and analysis.
 
+<br>
+<br>
+
 # Mobile Application Information
 
 Now, our Android APK is compatible with both Android smartphones and Android TV.
@@ -66,6 +83,9 @@ On the smart speaker, we have implemented the Linxs system for development and p
 This allows users to easily initiate data measurement tasks on the smart speaker using simple voice commands.
  
 More detail on **[Smart Speaker Github](https://github.com/ezoxygenTeam/smartspeaker)**
+
+<br>
+<br>
 
 # The Usage Information
 
