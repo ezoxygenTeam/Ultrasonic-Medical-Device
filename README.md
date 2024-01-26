@@ -95,19 +95,11 @@ More detail on **[Smart Speaker Github](https://github.com/ezoxygenTeam/smartspe
 
 [GH ultrasonic android app for blood glucose detecting](https://www.youtube.com/watch?v=YY2Zx7c_lt8)
 
-[GH ultrasonic android app for blood pressure detecting](https://www.youtube.com/watch?v=m-NjV7xVspA)
-
 **Smart Speaker**
 
 [GH ultrasonic smart speaker for blood glucose detecting](https://www.youtube.com/watch?v=jAHNHTbDzbc)
 
 [GH ultrasonic smart speaker for blood pressure detecting](https://www.youtube.com/watch?v=m-NjV7xVspA)
 
-
-
-
 ### Contact us
 Email: <service@genius-gh.com>
-
-
-
